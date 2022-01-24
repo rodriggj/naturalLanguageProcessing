@@ -8,5 +8,5 @@
 ### What is Natural Language Processing (NLP)
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/8760590/150850051-08290953-a3c6-40bc-b7f8-e651100eaf5e.png" width="450" height="400"/>
+    <img src="https://user-images.githubusercontent.com/8760590/150850051-08290953-a3c6-40bc-b7f8-e651100eaf5e.png" width="450" height="300"/>
 </p>
